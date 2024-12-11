@@ -6,7 +6,8 @@ const Navbar = () => {
     <div>
       <nav className='bg-emerald-900 text-white h-auto sm:h-12 md:h-16 lg:h-16 py-2 px-3 flex flex-col sm:flex-row justify-between items-center'>
         <div className='mb-5 sm:mb-0'>
-          <img />
+          <img src="logo.jpg" alt="" />
+          
             <h1 className='text-lg sm:text-xl md:text-2xl lg:text-2xl font-bold'>
                 <a href="#!">Maryam Sheikh</a>
             </h1>
